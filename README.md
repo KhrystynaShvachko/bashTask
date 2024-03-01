@@ -1,0 +1,2 @@
+# bashTask
+Khrystyna Shvachko
